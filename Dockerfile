@@ -1,4 +1,4 @@
-FROM node:7.10-wheezy
+FROM node:8-jessie
 
 MAINTAINER MV-Informática <devops@mv.com.br>
 
